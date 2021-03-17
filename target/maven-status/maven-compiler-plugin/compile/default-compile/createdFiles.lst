@@ -1,0 +1,10 @@
+com\testtask\services\DepartmentService.class
+com\testtask\repositories\DepartmentRepository.class
+com\testtask\services\LectorService.class
+com\testtask\entities\Lector.class
+com\testtask\services\CommandService.class
+com\testtask\services\SimpleService.class
+com\testtask\entities\enums\Degree.class
+com\testtask\repositories\LectorRepository.class
+com\testtask\entities\Department.class
+com\testtask\Application.class
